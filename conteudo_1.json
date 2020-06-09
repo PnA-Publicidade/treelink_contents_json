@@ -1,10 +1,42 @@
 {
-  "nome": "Gladson",
-  "sobrenome": "S Brito",
+  "logo_url": "//www.atendimento.sebrae.ro/",
+  "logo_imagem_url": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/23101667_160033784597658_7356328630634414080_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=ghk1nEpu2KkAX9VAw2t&oh=540f1cb3878054fd868f83416f246a1d&oe=5F03413A",
+  "logo_imagem_alt": "Sebrae RO",
+  "texto_link_principal": "@sebraero",
+  "url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
+  "texto_cor_rodape": "white",
+  "cor_fundo_style_background_01": "rgb(2,0,36)",
+  "cor_fundo_style_background_02": "linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
   "lista_links": [
     { 
-      "url": "https://tailwindcss.com/",
-      "titulo": "TailwindCSS"
+      "id": 1,
+      "titulo": "Website",
+      "conteudo": null,
+      "url": "//#1"
+    },
+    {
+      "id": 2,
+      "titulo": "Facebook Group - Tonya's Teasers",
+      "conteudo": null,
+      "url": "//#2"
+    },
+    {
+      "id": 3,
+      "titulo": "Link 3",
+      "conteudo": null,
+      "url": "//#3"
+    },
+    {
+      "id": 4,
+      "titulo": "Link 4",
+      "conteudo": null,
+      "url": "//#4"
+    },
+    {
+      "id": 5,
+      "titulo": "Link 5",
+      "conteudo": "Texto qualquer",
+      "url": "//#5"
     }
   ]
 }
