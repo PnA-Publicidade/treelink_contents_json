@@ -4,7 +4,7 @@
   "logo_imagem_alt": "Sebrae RO",
   "texto_link_principal": "@sebraero",
   "url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
-  "texto_cor_rodape": "white",
+  "texto_cor_rodape": "rgb(255, 255, 255)",
   "cor_fundo_style_background_01": "rgb(2,0,36)",
   "cor_fundo_style_background_02": "linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
   "lista_links": [
