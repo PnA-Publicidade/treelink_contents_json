@@ -1,12 +1,12 @@
 {
-  "logo_url": "//www.atendimento.sebrae.ro/",
-  "logo_imagem_url": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/23101667_160033784597658_7356328630634414080_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=ghk1nEpu2KkAX9VAw2t&oh=540f1cb3878054fd868f83416f246a1d&oe=5F03413A",
+  "logo_url": "//www.embrapa.br/",
+  "logo_imagem_url": "//instagram.fpvh2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/103613854_1239166703080924_7020517691214155749_n.jpg?_nc_ht=instagram.fpvh2-1.fna.fbcdn.net&_nc_ohc=mCggP0jX394AX_XaKIG&oh=765f52883e9aa7e5889806afa860caa8&oe=5F0B9B45",
   "logo_imagem_alt": "Sebrae RO",
   "texto_link_principal": "@sebraero",
   "url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
   "texto_cor_rodape": "rgb(109, 210, 22) !important",
-  "cor_fundo_style_background_01": "rgb(34,193,195)",
-  "cor_fundo_style_background_02": "linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%)",
+  "cor_fundo_style_background_01": "rgb(2,0,36)",
+  "cor_fundo_style_background_02": "linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(122,122,255,1) 55%, rgba(0,212,255,1) 100%)",
   "lista_links": [
     { 
       "id": 1,
@@ -41,7 +41,7 @@
     {
       "id": 6,
       "titulo": "Link 6",
-      "conteudo": "RAFAEL!!!",
+      "conteudo": "ISA!!!",
       "url": "//#6"
     }
   ]
