@@ -9,7 +9,7 @@
   "cor_fundo_style_background_02": "-moz-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
   "cor_fundo_style_background_03": "-webkit-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
   "cor_fundo_style_background_04": "linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
-  "cor_fundo_style_background_05": "progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1)",
+  "cor_fundo_style_background_05": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#020024',endColorstr='#00d4ff',GradientType=1)",
   "lista_links": [
     { 
       "id": 1,
