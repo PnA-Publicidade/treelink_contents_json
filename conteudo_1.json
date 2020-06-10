@@ -5,11 +5,10 @@
   "texto_link_principal": "@sebraero",
   "url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
   "texto_cor_rodape": "rgb(109, 210, 22) !important",
-  "cor_fundo_style_background_01": "rgb(2,0,36)",
-  "cor_fundo_style_background_02": "-moz-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
-  "cor_fundo_style_background_03": "-webkit-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
-  "cor_fundo_style_background_04": "linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
-  "cor_fundo_style_background_05": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#020024',endColorstr='#00d4ff',GradientType=1)",
+  "cor_fundo_style_background_01": "rgb(131,58,180)",
+  "cor_fundo_style_background_02": "-moz-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
+  "cor_fundo_style_background_03": "-webkit-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
+  "cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr="#833ab4",endColorstr="#fcb045",GradientType=1)",
   "lista_links": [
     { 
       "id": 1,
