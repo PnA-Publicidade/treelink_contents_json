@@ -1,83 +1,81 @@
 {
-  "logo_url": "//sebrae.ro/",
-  "logo_imagem_url": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/101461004_175822643863174_3488908780442222592_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=LGicLPQpmP4AX9De6sw&oh=6c19a991aa51d806b621bfaf1c629c5d&oe=5F09924A",
-  "logo_imagem_alt": "Sebrae RO",
-  "texto_link_principal": "@sebraero",
-  "url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
-  "texto_cor_rodape": "rgb(109, 210, 22) !important",
-  "cor_fundo_style_background_01": "rgb(131,58,180)",
-  "cor_fundo_style_background_02": "-moz-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
-  "cor_fundo_style_background_03": "-webkit-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
-  "cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#833ab4',endColorstr='#fcb045',GradientType=1)",
-  "lista_links": [
-    { 
-      "id": 1,
-      "titulo": "Website",
-      "conteudo": null,
-      "url": "//#1"
-    },
-    {
-      "id": 2,
-      "titulo": "Facebook Group - Tonya's Teasers",
-      "conteudo": null,
-      "url": "//#2"
-    },
-    {
-      "id": 3,
-      "titulo": "Link 3",
-      "conteudo": null,
-      "url": "//#3"
-    },
-    {
-      "id": 4,
-      "titulo": "Link 4",
-      "conteudo": null,
-      "url": "//#4"
-    },
-    {
-      "id": 5,
-      "titulo": "Link 5",
-      "conteudo": "Texto qualquer",
-      "url": "//#5"
-    },
-    {
-      "id": 6,
-      "titulo": "Link 6",
-      "conteudo": "ISA!!!",
-      "url": "//#6"
-    },
-    {
-      "id": 7,
-      "titulo": "Link 7",
-      "conteudo": "Ministra!!!",
-      "url": "//#7"
-    }
-  ],
-  "lista_links_sociais": [
-    {
-      "id": 1,
-      "icon_alt": "Facebook",
-      "icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
-    },
-    {
-      "id": 2,
-      "alt": "Youtube",
-      "url": "https://image.flaticon.com/icons/svg/124/124015.svg",
-    },
-    {
-      "id": 3,
-      "alt": "Whatsapp",
-      "url": "https://image.flaticon.com/icons/svg/124/124034.svg",
-    },
-    {
-      "id": 4,
-      "alt": "Twitter",
-      "url": "https://image.flaticon.com/icons/svg/124/124021.svg",
-    },
-    {
-      "id": 5,
-      "alt": "Linkedin",
-      "url": "https://image.flaticon.com/icons/svg/124/124011.svg",
-    }
-  ]
+	"logo_url": "//sebrae.ro/",
+	"logo_imagem_url": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/101461004_175822643863174_3488908780442222592_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=LGicLPQpmP4AX9De6sw&oh=6c19a991aa51d806b621bfaf1c629c5d&oe=5F09924A",
+	"logo_imagem_alt": "Sebrae RO",
+	"texto_link_principal": "@sebraero",
+	"url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
+	"texto_cor_rodape": "rgb(109, 210, 22) !important",
+	"cor_fundo_style_background_01": "rgb(131,58,180)",
+	"cor_fundo_style_background_02": "-moz-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
+	"cor_fundo_style_background_03": "-webkit-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
+	"cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#833ab4',endColorstr='#fcb045',GradientType=1)",
+	"lista_links": [{
+			"id": 1,
+			"titulo": "Website",
+			"conteudo": null,
+			"url": "//#1"
+		},
+		{
+			"id": 2,
+			"titulo": "Facebook Group - Tonya's Teasers",
+			"conteudo": null,
+			"url": "//#2"
+		},
+		{
+			"id": 3,
+			"titulo": "Link 3",
+			"conteudo": null,
+			"url": "//#3"
+		},
+		{
+			"id": 4,
+			"titulo": "Link 4",
+			"conteudo": null,
+			"url": "//#4"
+		},
+		{
+			"id": 5,
+			"titulo": "Link 5",
+			"conteudo": "Texto qualquer",
+			"url": "//#5"
+		},
+		{
+			"id": 6,
+			"titulo": "Link 6",
+			"conteudo": "ISA!!!",
+			"url": "//#6"
+		},
+		{
+			"id": 7,
+			"titulo": "Link 7",
+			"conteudo": "Ministra!!!",
+			"url": "//#7"
+		}
+	],
+	"lista_links_sociais": [{
+			"id": 1,
+			"icon_alt": "Facebook",
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg"
+		},
+		{
+			"id": 2,
+			"alt": "Youtube",
+			"url": "https://image.flaticon.com/icons/svg/124/124015.svg"
+		},
+		{
+			"id": 3,
+			"alt": "Whatsapp",
+			"url": "https://image.flaticon.com/icons/svg/124/124034.svg"
+		},
+		{
+			"id": 4,
+			"alt": "Twitter",
+			"url": "https://image.flaticon.com/icons/svg/124/124021.svg"
+		},
+		{
+			"id": 5,
+			"alt": "Linkedin",
+			"url": "https://image.flaticon.com/icons/svg/124/124011.svg"
+		}
+	]
 }
