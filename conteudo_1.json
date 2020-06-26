@@ -52,5 +52,32 @@
       "conteudo": "Ministra!!!",
       "url": "//#7"
     }
+  ],
+  "lista_links_sociais": [
+    {
+      "id": 1,
+      "icon_alt": "Facebook",
+      "icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
+    },
+    {
+      "id": 2,
+      "alt": "Youtube",
+      "url": "https://image.flaticon.com/icons/svg/124/124015.svg",
+    },
+    {
+      "id": 3,
+      "alt": "Whatsapp",
+      "url": "https://image.flaticon.com/icons/svg/124/124034.svg",
+    },
+    {
+      "id": 4,
+      "alt": "Twitter",
+      "url": "https://image.flaticon.com/icons/svg/124/124021.svg",
+    },
+    {
+      "id": 5,
+      "alt": "Linkedin",
+      "url": "https://image.flaticon.com/icons/svg/124/124011.svg",
+    }
   ]
 }
