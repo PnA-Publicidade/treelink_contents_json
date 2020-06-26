@@ -55,27 +55,32 @@
 	"lista_links_redes_sociais": [{
 			"id": 1,
 			"icon_alt": "Facebook",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg"
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
 		},
 		{
 			"id": 2,
 			"alt": "Youtube",
-			"url": "https://image.flaticon.com/icons/svg/124/124015.svg"
+			"url": "https://image.flaticon.com/icons/svg/124/124015.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
 		},
 		{
 			"id": 3,
 			"alt": "Whatsapp",
-			"url": "https://image.flaticon.com/icons/svg/124/124034.svg"
+			"url": "https://image.flaticon.com/icons/svg/124/124034.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
 		},
 		{
 			"id": 4,
 			"alt": "Twitter",
-			"url": "https://image.flaticon.com/icons/svg/124/124021.svg"
+			"url": "https://image.flaticon.com/icons/svg/124/124021.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
 		},
 		{
 			"id": 5,
 			"alt": "Linkedin",
-			"url": "https://image.flaticon.com/icons/svg/124/124011.svg"
+			"url": "https://image.flaticon.com/icons/svg/124/124011.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
 		}
 	]
 }
