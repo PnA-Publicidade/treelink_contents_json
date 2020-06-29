@@ -9,6 +9,10 @@
 	"cor_fundo_style_background_02": "-moz-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
 	"cor_fundo_style_background_03": "-webkit-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
 	"cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#833ab4',endColorstr='#fcb045',GradientType=1)",
+	"open_graph_site_name": "https://sebrae.ro/",
+	"open_graph_title": "Sebrae RO",
+	"open_graph_description": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+	"open_graph_image": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/101461004_175822643863174_3488908780442222592_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=LGicLPQpmP4AX9De6sw&oh=6c19a991aa51d806b621bfaf1c629c5d&oe=5F09924A",
 	"lista_links": [{
 			"id": 1,
 			"titulo": "Website",
