@@ -5,10 +5,10 @@
 	"texto_link_principal": "@sebraero",
 	"url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
 	"texto_cor_rodape": "rgb(109, 210, 22) !important",
-	"cor_fundo_style_background_01": "rgb(131,58,180)",
-	"cor_fundo_style_background_02": "-moz-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
-	"cor_fundo_style_background_03": "-webkit-linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
-	"cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#833ab4',endColorstr='#fcb045',GradientType=1)",
+	"cor_fundo_style_background_01": "rgb(2,0,36)",
+	"cor_fundo_style_background_02": "-moz-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
+	"cor_fundo_style_background_03": "-webkit-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
+	"cor_fundo_style_background_04": "progid:DXImageTransform.Microsoft.gradient(startColorstr='#020024',endColorstr='#00d4ff',GradientType=1)",
 	"open_graph_site_name": "https://sebrae.ro/",
 	"open_graph_title": "Sebrae RO",
 	"open_graph_description": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
@@ -36,33 +36,36 @@
 			"titulo": "SebraetecRO",
 			"conteudo": null,
 			"url": "https://sebraetec.ro/"
-		},
-		{
-			"id": 5,
-			"titulo": "Facebook",
-			"conteudo": null,
-			"url": "https://web.facebook.com/SebraeRondonia/"
-		},
-		{
-			"id": 6,
-			"titulo": "Twitter",
-			"conteudo": null,
-			"url": "https://twitter.com/SebraeRO"
-		},
-		{
-			"id": 7,
-			"titulo": "Linkedin",
-			"conteudo": null,
-			"url": "https://www.linkedin.com/company/sebrae-ro/?viewAsMember=true"
-		},
-		{
-			"id": 8,
-			"titulo": "WhastApp",
-			"conteudo": null,
-			"url": "https://api.whatsapp.com/send?1=pt_BR&phone=5508005700800"
 		}
 	],
 	"lista_links_redes_sociais": [
-    
+    {
+			"id": 1,
+      "url": "https://web.facebook.com/SebraeRondonia/",
+			"icon_alt": "Facebook",
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
+		},
+    {
+			"id": 2,
+      "url": "https://twitter.com/SebraeRO",
+			"icon_alt": "Twitter",
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124021.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
+		},
+    {
+			"id": 3,
+      "url": "https://www.linkedin.com/company/sebrae-ro/?viewAsMember=true",
+			"icon_alt": "Linkedin",
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124011.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
+		},
+    {
+			"id": 4,
+      "url": "https://api.whatsapp.com/send?1=pt_BR&phone=5508005700800",
+			"icon_alt": "Whatsapp",
+			"icon_url": "https://image.flaticon.com/icons/svg/124/124034.svg",
+			"style_background": "background-color: white; border-radius: 15px;"
+		}
 	]
 }
