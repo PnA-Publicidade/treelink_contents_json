@@ -15,81 +15,54 @@
 	"open_graph_image": "//scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s320x320/101461004_175822643863174_3488908780442222592_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=LGicLPQpmP4AX9De6sw&oh=6c19a991aa51d806b621bfaf1c629c5d&oe=5F09924A",
 	"lista_links": [{
 			"id": 1,
-			"titulo": "Website",
+			"titulo": "Site",
 			"conteudo": null,
-			"url": "//#1"
+			"url": "https://www.atendimento.sebrae.ro/"
 		},
 		{
 			"id": 2,
-			"titulo": "Facebook Group - Tonya's Teasers",
+			"titulo": "Conteúdo Exclusivo",
 			"conteudo": null,
-			"url": "//#2"
+			"url": "https://materiais.sebrae.ro/conteudo-exclusivo"
 		},
 		{
 			"id": 3,
-			"titulo": "Link 3",
+			"titulo": "Impacto Digital",
 			"conteudo": null,
-			"url": "//#3"
+			"url": "https://materiais.sebrae.ro/impactodigital"
 		},
 		{
 			"id": 4,
-			"titulo": "Link 4",
+			"titulo": "SebraetecRO",
 			"conteudo": null,
-			"url": "//#4"
+			"url": "https://sebraetec.ro/"
 		},
 		{
 			"id": 5,
-			"titulo": "Link 5",
-			"conteudo": "Texto qualquer",
-			"url": "//#5"
+			"titulo": "Facebook",
+			"conteudo": null,
+			"url": "https://web.facebook.com/SebraeRondonia/"
 		},
 		{
 			"id": 6,
-			"titulo": "Link 6",
-			"conteudo": "ISA!!!",
-			"url": "//#6"
+			"titulo": "Twitter",
+			"conteudo": null,
+			"url": "https://twitter.com/SebraeRO"
 		},
 		{
 			"id": 7,
-			"titulo": "Link 7",
-			"conteudo": "Ministra!!!",
-			"url": "//#7"
+			"titulo": "Linkedin",
+			"conteudo": null,
+			"url": "https://www.linkedin.com/company/sebrae-ro/?viewAsMember=true"
+		},
+		{
+			"id": 8,
+			"titulo": "WhastApp",
+			"conteudo": null,
+			"url": "https://api.whatsapp.com/send?1=pt_BR&phone=5508005700800"
 		}
 	],
-	"lista_links_redes_sociais": [{
-			"id": 1,
-      "url": "#facebook",
-			"icon_alt": "Facebook",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
-			"style_background": "background-color: white; border-radius: 15px;"
-		},
-		{
-			"id": 2,
-      "url": "#youtube",
-			"icon_alt": "Youtube",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124015.svg",
-			"style_background": "background-color: white; border-radius: 15px;"
-		},
-		{
-			"id": 3,
-      "url": "#whatsapp",
-			"icon_alt": "Whatsapp",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124034.svg",
-			"style_background": "background-color: white; border-radius: 15px;"
-		},
-		{
-			"id": 4,
-      "url": "#twitter",
-			"icon_alt": "Twitter",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124021.svg",
-			"style_background": "background-color: white; border-radius: 15px;"
-		},
-		{
-			"id": 5,
-      "url": "#linkedin",
-			"icon_alt": "Linkedin",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124011.svg",
-			"style_background": "background-color: white; border-radius: 15px;"
-		}
+	"lista_links_redes_sociais": [
+    
 	]
 }
