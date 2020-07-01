@@ -22,7 +22,7 @@
 		},
 		{
 			"id": 2,
-			"titulo": "Cadastre e receba conteúdos exclusivos",
+			"titulo": "Cadastre-se e receba Conteúdo Exclusivos",
 			"conteudo": null,
 			"url": "https://materiais.sebrae.ro/conteudo-exclusivo"
 		},
@@ -37,11 +37,10 @@
 			"titulo": "SebraetecRO",
 			"conteudo": null,
 			"url": "https://sebraetec.ro/"
-		},
-			
+		},	
 		{
 			"id": 5,
-			"titulo": "Aprenda a negociar com sucesso",
+			"titulo": "Aprenda a Negociar com Sucesso",
 			"conteudo": null,
 			"url": "https://sebrae.ro/conflitoaosorriso"
 		}	
