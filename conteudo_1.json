@@ -9,7 +9,7 @@
 	"cor_fundo_style_background_02": "#fff",
 	"cor_fundo_style_background_03": "#fff",
 	"cor_fundo_style_background_04": "#fff",
-	"cor_fundo_style_background_05": "background: #fff;background: #fff;-webkit-background-size: cover !important;-moz-background-size: cover;-o-background-size: cover;background-size: cover",
+	"cor_fundo_style_background_05": "-webkit-background-size: cover !important;-moz-background-size: cover;-o-background-size: cover;background-size: cover",
 	"open_graph_site_name": "https://sebrae.ro/",
 	"open_graph_title": "Sebrae RO",
 	"open_graph_description": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
