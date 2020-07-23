@@ -4,7 +4,7 @@
 	"logo_imagem_alt": "Sebrae RO",
 	"texto_link_principal": "@sebraero",
 	"url_link_principal": "//www.instagram.com/sebraero/?hl=pt-br",
-	"texto_cor_rodape": "rgb(109, 210, 22) !important",
+	"texto_cor_rodape": "rgb(0 97 167) !important",
 	"cor_fundo_style_background_01": "rgb(0,90,108)",
 	"cor_fundo_style_background_02": "-moz-linear-gradient(90deg, rgba(0,90,108,1) 0%, rgba(0,212,255,1) 41%, rgba(0,212,255,1) 100%)",
 	"cor_fundo_style_background_03": "-webkit-linear-gradient(90deg, rgba(0,90,108,1) 0%, rgba(0,212,255,1) 41%, rgba(0,212,255,1) 100%)",
@@ -56,28 +56,28 @@
 			"id": 1,
       "url": "https://web.facebook.com/SebraeRondonia/",
 			"icon_alt": "Facebook",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124010.svg",
+			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Face.png",
 			"style_background": "background-color: transparent; border-radius: 15px;"
 		},
     {
 			"id": 2,
       "url": "https://twitter.com/SebraeRO",
 			"icon_alt": "Twitter",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124021.svg",
+			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Twitter.png",
 			"style_background": "background-color: transparent; border-radius: 15px;"
 		},
     {
 			"id": 3,
       "url": "https://www.linkedin.com/company/sebrae-ro/?viewAsMember=true",
 			"icon_alt": "Linkedin",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124011.svg",
+			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/LinkedIn.png",
 			"style_background": "background-color: transparent; border-radius: 15px;"
 		},
     {
 			"id": 4,
       "url": "https://api.whatsapp.com/send?1=pt_BR&phone=5508005700800",
 			"icon_alt": "Whatsapp",
-			"icon_url": "https://image.flaticon.com/icons/svg/124/124034.svg",
+			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Whats.png",
 			"style_background": "background-color: transparent; border-radius: 15px;"
 		}
 	]
