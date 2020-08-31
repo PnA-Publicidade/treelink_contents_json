@@ -85,6 +85,13 @@
 			"icon_alt": "Whatsapp",
 			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Whats.png",
 			"style_background": "background-color: transparent; border-radius: 15px;"
-		}
+		},
+    {
+			"id": 5,
+      			"url": "https://www.youtube.com/channel/UCBhCWM7vsUw-ciZvnxg0-XQ?view_as=subscriber",
+			"icon_alt": "YouTube",
+			"icon_url": "https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/YouTube.png",
+			"style_background": "background-color: transparent; border-radius: 15px;"
+		}	
 	]
 }
