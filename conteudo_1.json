@@ -95,28 +95,28 @@
          "url":"https://twitter.com/SebraeRO",
          "icon_alt":"Twitter",
          "icon_url":"https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Twitter.png",
-         "style_background":"background-color: transparent; border-radius: 15px;"
+         "style_background":"background-color: transparent; border-radius: 10px;"
       },
       {
          "id":3,
          "url":"https://www.linkedin.com/company/sebrae-ro/?viewAsMember=true",
          "icon_alt":"Linkedin",
          "icon_url":"https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/LinkedIn.png",
-         "style_background":"background-color: transparent; border-radius: 15px;"
+         "style_background":"background-color: transparent; border-radius: 10px;"
       },
       {
          "id":4,
          "url":"https://api.whatsapp.com/send?1=pt_BR&phone=5508005700800",
          "icon_alt":"Whatsapp",
          "icon_url":"https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/Whats.png",
-         "style_background":"background-color: transparent; border-radius: 15px;"
+         "style_background":"background-color: transparent; border-radius: 10px;"
       },
       {
          "id":5,
          "url":"https://www.youtube.com/channel/UCBhCWM7vsUw-ciZvnxg0-XQ?view_as=subscriber",
          "icon_alt":"YouTube",
          "icon_url":"https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/youtube.png",
-         "style_background":"background-color: transparent; border-radius: 15px;"
+         "style_background":"background-color: transparent; border-radius: 10px;"
       },
       {
          "id":6,
@@ -130,7 +130,7 @@
          "url":"https://apps.apple.com/br/app/conecta-sebrae/id1536630434",
          "icon_alt":"App Conecta Sebrae iOS",
          "icon_url":"https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/store-apple.png",
-         "style_background":"border-radius: 15px;"
+         "style_background":"border-radius: 10px;"
       }
    ]
 }
