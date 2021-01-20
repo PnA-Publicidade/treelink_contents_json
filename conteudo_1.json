@@ -5,7 +5,7 @@
    "texto_link_principal":"@sebraero",
    "url_link_principal":"//www.instagram.com/sebraero/?hl=pt-br",
    "texto_cor_rodape":"rgb(0 97 167) !important",
-   "cor_fundo_style_background_01":"url(https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/background.jpg) !important",
+   "cor_fundo_style_background_01":"url(https://banner-sebrae.s3-us-west-2.amazonaws.com/treelink/bg.jpg) !important",
    "cor_fundo_style_background_02":"#fff",
    "cor_fundo_style_background_03":"#fff",
    "cor_fundo_style_background_04":"#fff",
@@ -79,7 +79,7 @@
          "id":10,
          "titulo":"Seu negócio Vira Real",
          "conteudo":null,
-         "url":"https://www.virareal.com"
+         "url":"http://sebrae.virareal.com.br/"
       }
    ],
    "lista_links_redes_sociais":[
