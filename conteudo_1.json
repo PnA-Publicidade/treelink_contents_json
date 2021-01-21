@@ -9,7 +9,6 @@
    "cor_fundo_style_background_03":"#fff",
    "cor_fundo_style_background_04":"background-repeat: no-repeat;background-position: center;background-size: cover !important;width: 100%;height: 100%;filter: #fff",
    "css_box_link_principal":"background-color: #00000000;font-size: 1.3rem;",
-   "css_box_link_lista":"background-color: #0062a9;",
    "css_title_link_lista":"color: #ffffff;",
    "css_content_link_lista":"color: #ffffff;",
    "css_box_logo":"transition: transform .2s;",
